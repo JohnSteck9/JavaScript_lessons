@@ -1,0 +1,15 @@
+{
+  "folders": [],
+  "settings": {
+    "editor.tokenColorCustomizations": null,
+    "workbench.colorCustomizations": {
+      "editor.lineHighlightBackground": "#0c000041",
+      "editor.selectionBackground": "#75757586",
+      "editor.wordHighlightBackground": "#4f63c030",
+      "editorCursor.foreground": "#bd0000"
+    },
+    "python.dataScience.jupyterServerURI": "local",
+    "liveServer.settings.multiRootWorkspaceName": "GitHub Projects",
+    "compile-hero.disable-compile-files-on-did-save-code": true
+  }
+}
